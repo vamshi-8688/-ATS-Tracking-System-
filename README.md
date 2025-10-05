@@ -4,7 +4,7 @@ Developed an AI-powered ATS (Applicant Tracking System) using Python and Streaml
 
 Integrated Google Gemini-Pro Vision API to analyze resumes and generate professional insights.
 
-Implemented key features: resume evaluation, keyword extraction, skills gap detection, and percentage match scoring.
+Implemented key features: resume evaluation, keyword extraction, and percentage match scoring.
 
 Utilized pdf2image and PIL for PDF-to-image conversion and secure API management with dotenv.
 
